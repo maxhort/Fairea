@@ -1,7 +1,7 @@
 # Explanatory package for "Fairea: A Model Behaviour Mutation Approach to Benchmarking Bias Mitigation Methods",
-This on-line appendix is supplementary to the paper entitled "Fairea: A Model Behaviour Mutation Approach to Benchmarking Bias Mitigation Methods", which has accepted at FSE'21. It contains the raw results, Python code for the proposed approach, and scripts to replicate our experiments. 
+This on-line appendix is supplementary to the paper entitled "Fairea: A Model Behaviour Mutation Approach to Benchmarking Bias Mitigation Methods", which has been accepted at FSE'21. It contains the raw results, Python code for the proposed approach, and scripts to replicate our experiments. 
 
-This `README` file describes the structure of the provided files (source code and results). as wel information on the content of this package.
+This `README` file describes the structure of the provided files (source code and results). as well as information on the content of this package.
 
 For more detailed instructions on how to install datasets and required libraries, refer to the `INSTALL.md` file.
 ---
